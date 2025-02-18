@@ -1,13 +1,13 @@
-INDICE [✓ ✕] - 18/02
+## **INDICE [✓ ✕] - 18/02**
 
-[1]
+# [1]
 	1.2-RA 6 A ✕
 	1.2-RA 6 E ✕
 	1.3-RA 6 B ✕
 	1.4-RA 6 F ✕
 	1.5-RA 6 G ✕
 
-[2]
+# [2]
 	2.1-RA 1.a ✓
 	2.2-RA 1.b ✓
 	2.3-RA 1.c ✓
@@ -16,17 +16,17 @@ INDICE [✓ ✕] - 18/02
 	2.6-RA 1.f ✕
 	2.7-RA 1.g ✕
 
-[3]
+# [3]
 	3.1-RA 6.a ✕
 	3.2-RA 6.a ✕
 	3.3-RA 6.f ✕
 	3.4-RA 6.g ✕
 	3.5-RA 6.h ✕
 
-[4]
+# [4]
 	4.1-RA 6.i ✕
 
-[5]
+# [5]
 	5.1-RA 7.a ✕
 	5.2-RA 7.b ✕
 	5.3-RA 7.c ✕
@@ -34,7 +34,16 @@ INDICE [✓ ✕] - 18/02
 	5.5-RA 7.e ✕
 	5.6-RA 7.f ✕
 
-[6] 
+# [6] 
 	6.1-RA 7.g ✓
 	6.2-RA 7.h ✕
 	6.3-RA 7.i ✕
+
+
+# para un encabezado de nivel 1.
+## para un encabezado de nivel 2.
+**texto** para negrita.
+*texto* para cursiva.
+- o * para listas no ordenadas.
+1., 2. para listas ordenadas.
+[Texto del enlace](URL) para insertar enlaces.
