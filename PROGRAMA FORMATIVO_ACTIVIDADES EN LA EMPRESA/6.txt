@@ -1,0 +1,7 @@
+6.1 [RA 7.g] - Instalar un IDE o entorno de desarrollo.
+
+Se instala VSCode
+
+6.2 [RA 7.h] - Escribir código en un IDE.
+
+6.3 [RA 7.i] - Escribir código con comentarios en el código identificando posibles soluciones que plantea el problema.
