@@ -1,0 +1,10 @@
+# Ignorar archivos de logs
+*.log
+
+# Ignorar directorios de logs
+logs/
+log/
+
+# Ignorar archivos de sistema operativo
+.DS_Store
+Thumbs.db
