@@ -36,9 +36,23 @@
 
 ## [6] 
 	6.1-RA 7.g ✓
-	6.2-RA 7.h ✕
-	6.3-RA 7.i ✕
+	6.2-RA 7.h ✓
+	6.3-RA 7.i ✓
 
+## [7]
+	Creo que estas RAs son para el segundo año
+
+## [8]
+	Creo que estas RAs son para el segundo año
+
+## [9]
+	9.1-RA 8 A ✕
+	9.2-RA 8 B ✕
+	9.3-RA 8 C ✕
+	9.4-RA 8 D ✕
+	9.5-RA 8 E ✕
+	9.6-RA 8 F ✕
+	
 
 # para un encabezado de nivel 1.
 ## para un encabezado de nivel 2.

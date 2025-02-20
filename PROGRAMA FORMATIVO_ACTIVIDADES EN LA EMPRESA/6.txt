@@ -4,4 +4,8 @@ Se instala VSCode
 
 6.2 [RA 7.h] - Escribir código en un IDE.
 
+He escrito codigo en Python (vease la carpeta python) utilizando VSCode.
+
 6.3 [RA 7.i] - Escribir código con comentarios en el código identificando posibles soluciones que plantea el problema.
+
+He comentado el codigo de Python (vease la carpeta python)
