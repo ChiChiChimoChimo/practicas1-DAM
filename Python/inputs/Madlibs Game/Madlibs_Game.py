@@ -1,0 +1,12 @@
+adjetive1 = input("Enter an adjetive: ")
+adjetive2 = input("Enter an adjetive: ")
+adjetive3 = input("Enter an adjetive: ")
+adjetive4 = input("Enter an adjetive: ")
+animal1 = input("Enter an animal: ")
+verb1 = input("Enter a verb: ")
+adverb = input("Enter an adverb: ")
+
+print(f"Today I went to a {adjetive1} zoo.")
+print(f"I saw a {adjetive2} {animal1} jumping up and down in its tree.")
+print(f"He {verb1} {adverb} through the large tunnel that led to its {adjetive3} {animal1} cage.")
+print(f"I was {adjetive4}.")
