@@ -1,0 +1,15 @@
+12.1 [RA 4 F] - Desarrollar código haciendo uso de herramientas de control de versiones como git, svn, mercurial, etc... 
+
+Se ha usado para almacenar el modulo creado, un fork de la plataforma odoo y el propio seguimiento de las practicas.
+
+12.2 [RA 4 G] - Usar repositorios remotos de código como Github, Bitbucket o incluso servidores distribuidos dentro de la propia empresa para almacenar copias remotas y hacer uso de colaboración en proyectos.
+
+Github a sido utilizado como repositorio remoto para llevar las versiones de control creadas.
+
+12.3 [RA 4 H] - Usar herramientas de integración contínua como GitLab, Jenkins o similar.
+
+No
+
+12.4 [RA 4 I] - Documentar las clases del proyecto mediante el uso de documentación de código para la centralización de la misma.
+
+Se ha utilizado Docstrings en Python

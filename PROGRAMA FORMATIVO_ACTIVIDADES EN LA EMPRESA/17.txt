@@ -1,0 +1,19 @@
+17.1 [RA 3 F] - Realizar consultas complejas contra la base de datos mediante el uso de subconsultas.
+
+Se han utilizado a la hora de hacer comprobaciones de la tabla de PostgreSQL conforme iba modificando y creando el modulo de propiedades que he creado.
+
+17.2 [RA 3 G] - Desarrollar consultas en la base de datos acceder a la informacion de las bases de datos especificando los criterios de busqueda, haciendo uso de criterios multiples y uso de varias tablas.
+
+Esto al igual que la RA anterior se ha realizado durante la creación del modulo para comparar datos, como el precio de venta donde este es superior a x cantidad, etc...
+
+17.3 [RA 3 H] - Hacer uso de herramientas de la base de datos para optimizar las consultas y mejorar el rendimiento de las mismas.
+
+Odoo optimiza por si solo las consultas una vez la base de datos esta creada pero tambien he usado algunas herramientas de PostgreSQL aunque no queden reflejadas en el modulo final.
+
+17.4 [RA 4 C] - Utilizar la información resultante de las consultas para insertar dichos resultados en tablas de la base de datos.
+
+Se han creado diferentes vistas en ODOO como kanban, listas, formulario etc... que cumplen un criterio parecido a lo que se solicita.
+
+17.5 [RA 4 D] - Desarrollar scripts SQL en la base de datos para realizar ejecuciones en bloque de varias sentencias para añadir o modificar elementos en la base de datos.
+
+Tambien realizados durante el proceso de cración de la base de datos para insertar diferentes valores y consultas para la demo del modulo de propiedades.
